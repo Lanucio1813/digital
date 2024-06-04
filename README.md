@@ -16,7 +16,7 @@ https://www.mediafire.com/file_premium/lasnafqgscb7ul6/Italian_Stallion.mp4/file
 #EXTINF:-1 tvg-logo="https://wipfilms.net/wp-content/uploads/2015/07/The-Big-Swap.jpg" group-title="FILME",The Big Swap
 https://www.mediafire.com/file_premium/8m5m927m9kijwhs/The_Big_Swap_1998.mp4/file
 
-#EXTINF:-1 tvg-logo="https://wipfilms.net/wp-content/uploads/2016/03/sex-files-alien.jpg" group-title="FILME",Sex Files: Alien Erotica
+#EXTINF:-1 tvg-logo="https://wipfilms.net/wp-content/uploads/2016/03/sex-files-alien.jpg" group-title="FILME",Alien Erotica
 https://www.mediafire.com/file_premium/82oztkkymnyvfq6/Sex_Files_Alien_Erotica.mp4/file
 
 
