@@ -18,3 +18,11 @@ https://www.mediafire.com/file_premium/8m5m927m9kijwhs/The_Big_Swap_1998.mp4/fil
 
 #EXTINF:-1 tvg-logo="https://wipfilms.net/wp-content/uploads/2016/03/sex-files-alien.jpg" group-title="FILME",Sex Files: Alien Erotica
 https://www.mediafire.com/file_premium/2byf8zk0q4wckws/Sex_Files_Alien_Erotica.avi/file
+
+#EXTINF:-1 tvg-logo="https://wipfilms.net/wp-content/uploads/Posters/Sex_Files_Alien_Erotica_II.jpg" group-title="FILME",Sex Files: Alien Erotica II
+
+
+#EXTINF:-1 tvg-logo="https://wipfilms.net/wp-content/uploads/2013/05/Erotic-Inferno-.jpg" group-title="FILME",Erotic Inferno
+
+
+#EXTINF:-1 tvg-logo="https://wipfilms.net/wp-content/uploads/2013/07/And-God-Created-Woman.jpg" group-title="FILME",And God Created Woman
