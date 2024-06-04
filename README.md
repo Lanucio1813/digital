@@ -25,4 +25,4 @@ https://www.mediafire.com/file_premium/2byf8zk0q4wckws/Sex_Files_Alien_Erotica.a
 #EXTINF:-1 tvg-logo="https://wipfilms.net/wp-content/uploads/2013/05/Erotic-Inferno-.jpg" group-title="FILME",Erotic Inferno
 
 
-#EXTINF:-1 tvg-logo="https://wipfilms.net/wp-content/uploads/2013/07/And-God-Created-Woman.jpg" group-title="FILME",And God Created Woman
+
