@@ -17,8 +17,8 @@ https://www.mediafire.com/file_premium/2agu6rko0zy3k9g/03_-_Virgin_dreams.mp4/fi
 https://www.mediafire.com/file_premium/qkpasuyw9sqxfc6/Never_Sleep_Alone.mp4/file
 
 
-#EXTINF:-1 tvg-logo="https://wipfilms.net/wp-content/uploads/Posters/The_Dark_Side_of_Sex_AKA_Hot_Summer_in_Ibiza.jpg" group-title="FILME",telegram
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YGgAG8n.png" group-title="FILME",telegram
+http://162.212.155.20:8081/stream/28?hash=4309a6
 
 
 
